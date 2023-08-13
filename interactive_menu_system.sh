@@ -1,4 +1,4 @@
-#!/bin/bash
+e#!/bin/bash
 
 # Function to add a new record
 add_record() {
